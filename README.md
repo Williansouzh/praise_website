@@ -58,5 +58,5 @@
     * Runs the app in the development mode.
       Open http://localhost:3333 to view it in the browser.
     ##  deploy:
-    [![TodoListCrud img](https://github.com/Williansouzh/TodoList-crud-with-Node-Mysql-and-React-js/blob/main/TodoListCrud%20img.PNG)](https://youtu.be/_wqEm50aUMI)]
+    [![TodoListCrud img](https://github.com/Williansouzh/praise_website/blob/main/example.png)](https://youtu.be/_wqEm50aUMI)]
 
